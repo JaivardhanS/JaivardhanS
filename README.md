@@ -3,7 +3,7 @@
          height="45"
          width="45" /> I'm Jaivardhan Singh</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic&style=for-the-badge" alt="iampawan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=JaivardhanS&label=Views&color=blue&style=plastic&style=for-the-badge" alt="iampawan" /> </p>
 
 # 💫 About Me :
 - 😄 Pronouns: He/His
@@ -34,7 +34,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=iampawan&icon=0&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=JaivardhanS&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <div align="center">
 
