@@ -16,7 +16,7 @@
 (https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCrO8WYlBNqVstF5kLwQ1EJg)(https://img.shields.io/twitter/follow/imthepk?logo=Twitter&style=for-the-badge)](https://twitter.com/Jaivard74742635)
 ## 📈 Activity Graph
 <p align="center">
-	<img src="https://activity-graph.herokuapp.com/graph?username=iampawan&theme=minimal"/>
+	<img src="https://activity-graph.herokuapp.com/graph?username=JaivardhanS&theme=minimal"/>
 </p>
 
 ## 💳 Github Profile Summary Card
